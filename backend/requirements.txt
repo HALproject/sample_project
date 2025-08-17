@@ -1,0 +1,9 @@
+fastapi==0.110.0
+uvicorn[standard]==0.27.1
+openai==1.12.0
+pyyaml==6.0.1
+soundfile==0.12.1
+torch>=2.0.0
+espnet==202308
+espnet_model_zoo
+whisper-streaming==0.2.0
