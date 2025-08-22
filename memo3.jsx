@@ -1,0 +1,1 @@
+{ "model": "finetuned", "temperature": 0.7, "vad": false }
