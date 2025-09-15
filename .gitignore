@@ -1,5 +1,6 @@
 backend_bk/
 frontend_bk/
+_/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
